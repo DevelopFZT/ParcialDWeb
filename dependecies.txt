@@ -1,0 +1,4 @@
+instalar en la maquina (que no tengan envenv)
+
+npm install body-parser
+npm install cors
